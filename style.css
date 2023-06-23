@@ -23,7 +23,7 @@ body {
 
 .container {
     width: 320px;
-    height: 530px;
+    height: 540px;
     background-color: var(--clr-white);
     padding: 15px;
     display: flex;
